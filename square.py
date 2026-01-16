@@ -1,6 +1,7 @@
 def sq_cube():
   arr1=[]
   arr2=[]
+  i=1
   while i<=10:
     square=i*i
     cube=i*i*i
