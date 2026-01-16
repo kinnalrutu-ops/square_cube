@@ -5,8 +5,8 @@ def sq_cube():
   while i<=10:
     square=i*i
     cube=i*i*i
-    square.append(arr1)
-    cube.append(arr2)
+    square.append[arr1]
+    cube.append[arr2]
     i=i+1
   return arr1,arr2
 if "__name__"=="__main__":
